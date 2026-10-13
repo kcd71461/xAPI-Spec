@@ -1,5 +1,7 @@
 # xAPI-Spec
 
+**English** | [한국어](./ko/README.md)
+
 This Github repository contains the xAPI Specification. xAPI is a learning
 technologies interoperability specification that describes communication
 about learner activity and experiences between technologies. The specification is
